@@ -64,7 +64,7 @@ function getSidebarProfileName(user?: UserInfo | null): string {
     return username;
   }
 
-  return "ZCode";
+  return "ZAICode";
 }
 
 function getSidebarProfileBadge(

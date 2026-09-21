@@ -1,8 +1,8 @@
 {
   "name": "@zcode/desktop",
   "private": true,
-  "description": "ZCode Desktop App",
-  "author": "ZCode",
+  "description": "ZAICode Desktop App",
+  "author": "ZAICode",
   "type": "module",
   "main": "out/main/index.js",
   "scripts": {

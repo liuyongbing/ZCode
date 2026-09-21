@@ -49,7 +49,7 @@ export function formatZCodeHostProcessName(label?: string): string {
 
 export function formatZCodeRendererProcessName(windowTitle?: string): string {
   const normalizedTitle = windowTitle?.trim();
-  if (!normalizedTitle || normalizedTitle === "ZCode") {
+  if (!normalizedTitle || normalizedTitle === "ZAICode") {
     return joinZCodeProcessName("renderer", "main");
   }
 

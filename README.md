@@ -1,7 +1,9 @@
-# ZCode
+# ZAICode
+
+> ZAICode 是基于 [ZCode](https://github.com/zai-org/zcode)(Apache-2.0)构建的自有品牌版本,遵循原项目 LICENSE 与 NOTICE。
 
 <div align="center">
-  <img src="public/logo/icons/1024x1024.png" alt="ZCode" width="128" height="128" />
+  <img src="public/logo/icons/1024x1024.png" alt="ZAICode" width="128" height="128" />
 </div>
 <p align="center">
   <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=47ag983c-8fcb-4d6d-814b-5395193a712c&amp;qr_code=true">飞书社群</a> ·
